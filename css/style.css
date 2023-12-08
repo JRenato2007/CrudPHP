@@ -1,0 +1,107 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  p{
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  #crud-direita{
+    padding-left: 390px;
+  }
+  
+  #titleTexts{
+    font-weight: 500;
+    padding: 6px;
+  }
+  
+  
+  table{
+    background-color: #e1e1e1;
+    width: 530px;
+    height: 30px;
+  }
+  
+  #crud{
+    float: left;
+    width: 350px;
+    background-color: #bbbaba;
+    border-style: solid;
+    border-width: 3px;
+  }
+  
+  .cadButton{
+    font-weight: bold;
+    height: 28px;
+    width: 339px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .tdText{
+    padding:5px;
+  }
+  
+  #funcButtons:hover{
+    transition: .5s;
+    background-color: #787878;
+    color: rgb(255, 255, 255);
+  }
+  
+  #funcButtons{
+    text-decoration: none;
+    margin-right: 7px;
+    margin-left: 15px;
+    cursor: pointer;
+    background-color: #484848;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+  }
+  
+  p,input{
+    display: block;
+    width: 20px;
+  }
+  
+  input{
+    margin-left: 4px;
+    width: 330px;
+    height: 18px;
+  }
+  
+  .inptClass{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  
+  .textDiv{
+    color: black;
+    font-weight: 140;
+    margin: 1px;
+    margin-left: 4px;
+  }
+  .title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 23px;
+    text-align: center;
+  }
+  
+  #titulo{
+    color: rgb(255, 247, 247);
+    background-color: #484848;
+    padding: 40px
+  }
+  
+  #tituloDados{
+    background-color: #e1e1e1; 
+  }
+  a{
+    
+    font-size: 20px;
+    border: 2px solid;
+    font-style: none;
+    color: black;
+    background-color: cyan;
+  }
